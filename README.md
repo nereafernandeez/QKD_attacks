@@ -1,4 +1,4 @@
-These programs were created for my final project of uni called "Attacks on QKD protocols". The project is pretty cool. 
+These programs were created for my final project of uni called "Attacks on QKD protocols".
 
 1) I simulated the BB84 protocol, a PNS attack to said protocol, and a decoy state protocol as a way to identify the PNS attack. 
 2) I simulated the SARG04 protocol and the consequences of a THA attack.
