@@ -4,7 +4,7 @@ These programs were created for my final project of uni called "Attacks on QKD p
 2) I simulated the SARG04 protocol and the consequences of a THA attack.
 
 The code is commented but the comments are in spanish since I don't expect a single soul to read these programs (except probably my mom and dad).
-I could, in fact, translate them, but only if I see SOMEONE, literally ANYBODY, reading or needing the code. Otherwise, it will stay as it is :)
+I could, in fact, translate them, but only if I see someone, literally ANYBODY, reading or needing the code. Otherwise, it will stay as it is :)
 
 Anyway, about the programs. There are two different programs for each simulation: one of them is the code for a simulation on a classic computer. The other 
 one is the exact same simulation but with the code adapted so it can run on one of the IBM online quantum computers. I used Qiskit 1.2.4.
