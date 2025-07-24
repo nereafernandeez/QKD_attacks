@@ -3,7 +3,7 @@ These programs were created for my final project of uni called "Attacks on QKD p
 1) I simulated the BB84 protocol, a PNS attack, and a decoy state protocol as a way to identify the PNS attack. 
 2) I simulated the SARG04 protocol and the consequences of a THA attack.
 
-The code is commented but the comments are in spanish since I don't expect a single soul to read these programs (except probably my mom and dad).
+The code is commented but the comments are in Spanish since I don't expect a single soul to read these programs (except probably my mom and dad).
 I could, in fact, translate them, but only if I see someone, literally ANYBODY, reading or needing the code. Otherwise, it will stay as it is :)
 
 Anyway, about the programs. There are two different programs for each simulation: one of them is the code for a simulation on a classical computer. The other 
